@@ -1,7 +1,7 @@
 ## Title: South African Classic Project
 
 
-### Description or write up
+### Data Description
 
 The National Library of South Africa was mandated by the Department of Sport, Arts and Culture (DSAC) to reprint books that are considered classics in the 9 indigenous languages of South Africa. The project was initiated in 2009 by the NLSA through Conditional Grant funding from the DSAC. To date 93 title have been reprinted and are circulated to public libraries to encourage reading in indigenous languages.
 
@@ -25,4 +25,4 @@ Please click [here](https://drive.google.com/drive/folders/1oARsJ8OiDsuVzQKE6xiF
 
 ### Licence
 
-[licence here]
+[licence]
