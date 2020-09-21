@@ -13,9 +13,11 @@ Ityala la Mawele is an IsiXhosa novel written by SEK Mqhayi who is fondly known 
 
 ### Access
 
-File type: `Scanned documents /zip format`
-Link: Please click [here](`https://drive.google.com/drive/folders/1oARsJ8OiDsuVzQKE6xiF_Pcmvaesv2yK?usp=sharing`
-) to access the data`
+File type: `Scanned documents /zip format`.
+
+Link: Please click [here](https://drive.google.com/drive/folders/1oARsJ8OiDsuVzQKE6xiF_Pcmvaesv2yK?usp=sharing
+) to access the data.
+
 
 ### Tags
 
